@@ -1,4 +1,4 @@
-# Google-Stock-Market-Analysis-Dashboard-2025-2025-
+# Google-Stock-Market-Analysis-Dashboard-2020-2025-
 
 **DESCRIPTION**
 his interactive Power BI dashboard analyzes Google’s stock performance from 2020 to 2025, integrating historical price data, volume, and volatility trends. It tracks 30-day moving averages, daily price fluctuations, and monthly volume spikes to uncover key market patterns.
